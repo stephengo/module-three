@@ -1604,6 +1604,18 @@ pre code {
     padding-right: 0px;
   }
   body {
+    background-color: white !important;
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    width: 100% !important;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  body {
     background-color: yellow !important;
   }
 }
