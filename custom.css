@@ -1651,12 +1651,12 @@ pre code {
     padding-right: 0px;
   }
   body {
-    background-color: lightblue !important;
+    background-color: white !important;
   }
   .reveal .slides {
     text-align: left;
     width: 100% !important;
-    left: 30% !important;
+    left: 50% !important;
   }
 }
 
