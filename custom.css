@@ -1606,7 +1606,7 @@ and (min-device-width : 375px)
 and (max-device-width : 667px)
 and (orientation : portrait) {
   body {
-    background-color: lightblue;
+    background-color: lightblue !important;
   }
 
 }
@@ -9592,6 +9592,7 @@ div.inner_cell {
 @-moz-document url-prefix() {
   div.inner_cell {
     overflow-x: hidden;
+    overflow-y: hidden;
   }
 }
 /* input_area and input_prompt must match in top border and margin for alignment */
