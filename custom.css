@@ -17,7 +17,6 @@ html {
 }
 .sel {
   height: 550px !important;
-
 }
 
 .boxplot {
@@ -1611,8 +1610,8 @@ pre code {
   .container {
     width: 100% !important;
     margin-right: auto;
-    margin-left: auto;
-    padding-left: 0px;
+    margin-left: 0 !important;
+    padding-left: 0px !important;
     padding-right: 0px;
   }
   body {
