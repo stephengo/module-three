@@ -1617,6 +1617,11 @@ pre code {
   body {
     background-color: white !important;
   }
+  .reveal .slides {
+    text-align: left;
+    width: 100% !important;
+    left: 40% !important;
+  }
 }
 
 @media (min-width: 1559px) and (max-width: 1800px) {
@@ -11788,7 +11793,6 @@ ul.typeahead-list > li > a {
 .reveal .slides {
   text-align: left;
   width: 100% !important;
-  left: 40% !important;
 }
 .reveal.fade {
   opacity: 1;
