@@ -1606,7 +1606,7 @@ pre code {
     background-color: white !important;
   }
 }
-@media (min-width: 1024px) {
+@media (min-width: 1100px) {
   .container {
     width: 100% !important;
     margin-right: auto;
