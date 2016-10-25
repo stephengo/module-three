@@ -1609,12 +1609,14 @@ pre code {
 }
 
 
-@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) {
 /* Styles */
 body {
   background-color: lightblue !important;
 }
 }
+
+
 
 @media (min-width: 992px) {
   .container {
