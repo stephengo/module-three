@@ -1619,7 +1619,7 @@ pre code {
   }
 }
 
-@media (min-width: 2561px) {
+@media (min-width: 1599px) {
   .container {
     width: 100% !important;
     margin-right: auto;
@@ -1633,7 +1633,7 @@ pre code {
   .reveal .slides {
     text-align: left;
     width: 100% !important;
-    left: 0% !important;
+    left: 10% !important;
   }
 }
 
