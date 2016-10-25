@@ -1597,7 +1597,10 @@ pre code {
 }
 @media (min-width: 768px) {
   .container {
-    width: 768px;
+    width: 100% !important;
+  }
+  body {
+    background-color: lightblue !important;
   }
 }
 
@@ -1608,12 +1611,12 @@ and (orientation : portrait) {
   body {
     background-color: lightblue !important;
   }
-
 }
+
 
 @media (min-width: 992px) {
   .container {
-    width: 940px;
+    width: 100% !important;
   }
 }
 @media (min-width: 1200px) {
